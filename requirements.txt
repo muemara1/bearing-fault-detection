@@ -1,0 +1,8 @@
+# For GPU support, install torch from https://pytorch.org first.
+torch
+numpy
+scipy
+scikit-learn
+joblib
+matplotlib
+jupyter
